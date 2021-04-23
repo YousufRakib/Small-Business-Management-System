@@ -1,0 +1,14 @@
+F:\YousufRakib\Small-Business-Management-System1\Small-Business-Management-System-master\SmallBusinessManagementSystem\SmallBusinessManagementSystem\bin\Debug\SmallBusinessManagementSystem.exe.config
+F:\YousufRakib\Small-Business-Management-System1\Small-Business-Management-System-master\SmallBusinessManagementSystem\SmallBusinessManagementSystem\bin\Debug\SmallBusinessManagementSystem.exe
+F:\YousufRakib\Small-Business-Management-System1\Small-Business-Management-System-master\SmallBusinessManagementSystem\SmallBusinessManagementSystem\bin\Debug\SmallBusinessManagementSystem.pdb
+F:\YousufRakib\Small-Business-Management-System1\Small-Business-Management-System-master\SmallBusinessManagementSystem\SmallBusinessManagementSystem\obj\Debug\SmallBusinessManagementSystem.csprojAssemblyReference.cache
+F:\YousufRakib\Small-Business-Management-System1\Small-Business-Management-System-master\SmallBusinessManagementSystem\SmallBusinessManagementSystem\obj\Debug\SmallBusinessManagementSystem.Properties.Resources.resources
+F:\YousufRakib\Small-Business-Management-System1\Small-Business-Management-System-master\SmallBusinessManagementSystem\SmallBusinessManagementSystem\obj\Debug\SmallBusinessManagementSystem.UI.CategoryUI.resources
+F:\YousufRakib\Small-Business-Management-System1\Small-Business-Management-System-master\SmallBusinessManagementSystem\SmallBusinessManagementSystem\obj\Debug\SmallBusinessManagementSystem.UI.CustomerUI.resources
+F:\YousufRakib\Small-Business-Management-System1\Small-Business-Management-System-master\SmallBusinessManagementSystem\SmallBusinessManagementSystem\obj\Debug\SmallBusinessManagementSystem.UI.ProductUI.resources
+F:\YousufRakib\Small-Business-Management-System1\Small-Business-Management-System-master\SmallBusinessManagementSystem\SmallBusinessManagementSystem\obj\Debug\SmallBusinessManagementSystem.UI.PurchaseUI.resources
+F:\YousufRakib\Small-Business-Management-System1\Small-Business-Management-System-master\SmallBusinessManagementSystem\SmallBusinessManagementSystem\obj\Debug\SmallBusinessManagementSystem.UI.SalesUI.resources
+F:\YousufRakib\Small-Business-Management-System1\Small-Business-Management-System-master\SmallBusinessManagementSystem\SmallBusinessManagementSystem\obj\Debug\SmallBusinessManagementSystem.csproj.GenerateResource.cache
+F:\YousufRakib\Small-Business-Management-System1\Small-Business-Management-System-master\SmallBusinessManagementSystem\SmallBusinessManagementSystem\obj\Debug\SmallBusinessManagementSystem.csproj.CoreCompileInputs.cache
+F:\YousufRakib\Small-Business-Management-System1\Small-Business-Management-System-master\SmallBusinessManagementSystem\SmallBusinessManagementSystem\obj\Debug\SmallBusinessManagementSystem.exe
+F:\YousufRakib\Small-Business-Management-System1\Small-Business-Management-System-master\SmallBusinessManagementSystem\SmallBusinessManagementSystem\obj\Debug\SmallBusinessManagementSystem.pdb
